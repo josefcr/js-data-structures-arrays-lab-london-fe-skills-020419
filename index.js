@@ -28,5 +28,5 @@ function prependDriver(name){
 }
 
 function removeFirstDriver(){
-  const 
+  const copyRemoveFirst = 
 }
