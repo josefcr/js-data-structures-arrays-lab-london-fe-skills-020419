@@ -28,5 +28,5 @@ function prependDriver(name){
 }
 
 function removeFirstDriver(){
-  const copyRemoveFirst = 
+  const copyRemoveFirst = drivers.slice
 }
